@@ -1,5 +1,5 @@
 # Ignite Lab 1.0
-## Construir uma aplicação com as tecnologias:
+## Tecnologies
 - NestJS
 - GraphQL
 - Apache Kafka
@@ -8,23 +8,23 @@
 - Apollo Client (GraphQL)
 - Auth0 (For authentication)
 
-## Funcionalidades
+## Features
 
-### Serviço de compras (purchases)
-- [Admin] Cadastro de produtos
-- [Admin] Listagem de produtos
+### Purchases Service
+- [Admin] Create Product
+- [Admin] List Products
 
-- [Auth] Listagem de compras
+- [Auth] List User Purchases
 
-- [Public] Compra de um produto
-- [Public] Lista produtos disponíveis p/ compra
+- [Public] Buy Product
+- [Public] List Products by availability
 
-### Serviço de sala de aula (classroom)
-- [Admin] Listar matrículas
-- [Admin] Listar alunos
-- [Admin] Listar cursos
-- [Admin] Cadastrar cursos
+### Classroom Service
+- [Admin] List User Enrollments
+- [Admin] List Students
+- [Admin] List Courses
+- [Admin] Course Sign up
 
-- [Auth] Listar cursos que tenho acesso
-- [Auth] Acessar conteúdo do curso
+- [Auth] List User Couses
+- [Auth] Access Course Content
 
