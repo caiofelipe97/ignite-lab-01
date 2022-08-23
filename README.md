@@ -30,8 +30,8 @@
 
 ## How to run
 - Run `docker-compose up -d` to run the DB, kafka, Kafka-UI and zookeeper.
-- Run `npm start:dev` to start all backend projects: `purchases`, `classroom` and `gateway`.
-- Run `yarn dev` on the web project to start the reactJS project
+- Run `npm run start:dev` to start all backend projects: `purchases`, `classroom` and `gateway`.
+- Run `yarn dev` on the web project to start the NextJS based on ReactJS project 
 
 
 ### ENV VARIABLES
