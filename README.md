@@ -1,6 +1,6 @@
 # Ignite Lab 1.0
 ## Tecnologies
-- NestJS
+- NestJS!
 - GraphQL
 - Apache Kafka
 - Next.js
